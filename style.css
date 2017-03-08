@@ -1,0 +1,16 @@
+html {
+    background-color: #026868;
+}
+
+nav {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+p {
+    display: inline-flex;
+    border: 1px solid white;
+    width: 75px;
+    text-align: center;
+}
